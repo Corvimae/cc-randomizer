@@ -1,0 +1,10 @@
+{
+	"name": "cc-randomizer",
+	"plugin": "plugin.js",
+	"homepage": "https://github.com/corvimae/cc-randomizer",
+	"description": "Rip to Lea but it's all different",
+	"version": "0.0.1",
+	"ccmodDependencies": {
+		"ccloader": "^2.19.0"
+	}
+}
